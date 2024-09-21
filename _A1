@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Wireframe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .header, .footer {
+            background-color: #a94444;
+            color: #000000;
+            text-align: center;
+            padding: 20px;
+        }
+        .navbar {
+            display: flex;
+            justify-content: center;
+            background-color: #a54646;
+            padding: 10px;
+        }
+        .navbar a {
+            margin: 0 15px;
+            color: #000000;
+            text-decoration: none;
+        }
+        .main-content {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        .main-content .content, .main-content .sidebar {
+            width: 45%;
+        }
+        .main-content img {
+            width: 100%;
+            height: auto;
+        }
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="c:\Users\Bradon Bryan\Downloads\0_wptLbt4cS24GzFdQ.jpg"Brandon Bryan id="profile-pic">
+            <h1>Wireframe: Brandon Bryan's Portfolio</h1>
+        </header>
+
+        <div class="main-content">
+            <div class="content">
+                <h2>Main Content Area</h2>
+                <p>Brandon Bryan
+                
+                <img src="c:\Users\Bradon Bryan\Downloads\BB.jpg" alt="Profile Picture Placeholder">
+            </div>
+            <div class="sidebar">
+                <h2>Sidebar</h2>
+                <p>UNIVERSITY OF TECHNOLOGY JAMAICA</p>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2024 Brandon Bryan</p>
+        </footer>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Bryan - Aspiring Architect</title>
+    <link rel="stylesheet" href="../Assets/styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Brandon Bryan's Portfolio</h1>
+
+        <nav>
+            <ul>
+                <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Bryan - Aspiring Architect</title>
+    <link rel="stylesheet" href="../Assets/styles.css">
+</head>
+<body>
+
+    <header>
+
+    <main>
+        <section>
+            <img src="../Assets/brandon.jpg" alt="Brandon Bryan" id="profile-pic">
+            <p>Hi, I'm Brandon Bryan, a 20-year-old student with a passion for Cumputer Technology. I'm currently pursuing an Degree in Cumpter Information Systems and I am excited to share my journey and portfolio with you.</p>
+            <p>From my academic achievements to my hands-on experience in the industry, this website showcases the work that has shaped me into the aspiring Tech I am today. I invite you to explore my projects, professional vision, and personal development through this interactive portfolio.</p>
+            <a href="mailto:brandonmike188@gmail.com?subject=Portfolio Inquiry">Contact Me</a> brandonmike65@gmail.com
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Brandon Bryan</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Bryan - Professional Background</title>
+    <link rel="stylesheet" href="../Assets/styles.css">
+</head>
+<body>
+   
+    </header>
+
+    <main>
+        <section>
+            <h2>Resume</h2>
+            <p><strong>Contact:</strong> brandonmike188@gmail.com | 876-534-8067</p>
+
+            <h3>Education</h3>
+            <ul>
+                <li><strong>Associate of Science Degree in Architecture and Construction</strong> (2021-2023)</li>
+                <li><strong>Excelsior High School</strong> (2016-2021) - Distinctions in CSEC subjects such as Industrial Technology and Integrated Science.</li>
+                <li></li> University of Technology Jamaica (2023-2027).</li>
+            </ul>
+
+            <h3>Experience</h3>
+            <ul>
+                <li><strong>Intern, BuildSmart Construction Firm</strong> (2023) - Assisted with drafting designs and reviewing architectural blueprints.</li>
+                <li><strong>Volunteer, Jamaican National Children's Home</strong> - Engaged in community service projects to improve facility infrastructure.</li>
+            </ul>
+
+            <h3>Skills</h3>
+            <ul>
+                <li>Proficient in AutoCAD, SketchUp</li>
+                <li>3D Modeling & Rendering</li>
+                <li>Project Management</li>
+                <li>Sustainable Design Techniques</li>
+            </ul>
+
+        <section>
+            <h2>Career Vision</h2>
+            <p>My goal is to become a leading Tech person with eco-friendly materials and technologies. I aim to work on projects that transform communities while minimizing their environmental impact.</p>
+        </section>
+
+        <section>
+            <h2>Mission Statement</h2>
+            <p>My mission is to create designs that not only serve functional needs but also inspire and uplift those who interact with them. I believe that thoughtful design can improve lives, and I aim to achieve this in every project I undertake.</p>
+        </section>
+
+    </main>
+
+        <p>&copy; 2024 Brandon Bryan</p>
+
+    </footer>
+
+    </header>
+    
+    <main>
+        <section>
+            <img src="c:\Users\Bradon Bryan\Downloads\images.jpg"Brandon Bryan id="profile-pic">
+            <p>As someone with a strong interest in technology and problem-solving, I have developed a growing passion for programming. The idea of creating efficient, innovative solutions through code excites me, and I am eager to dive deeper into the world of software development. Programming offers the opportunity to continuously learn and adapt, which aligns perfectly with my desire for personal and professional growth. I am particularly drawn to the creativity and logic involved in building applications, and I look forward to enhancing my skills to contribute to impactful projects in the tech industry.</p>
+            <a href="mailto:brandonmike188@gmail.com?subject=Portfolio Inquiry">Contact Me</a>
+    
+    <footer>
+
+        <p>&copy; 2024 Brandon Bryan</p>
+
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Bryan - Professional Page</title>
+    <link rel="stylesheet" href="../Assets/styles.css">
+</ul>
+
+ 
+    <footer>
+        
